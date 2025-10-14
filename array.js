@@ -17,9 +17,15 @@
 
 
 
-let c = document.getElementsByClassName('head')
-console.log(c[0]);
-c[0].style.backgroundColor="red"
-c[1].style.backgroundColor="lightgreen"
-c[2].style.backgroundColor="blue"
-c[3].style.backgroundColor="pink"
+// let c = document.getElementsByClassName('head')
+// console.log(c[0]);
+// c[0].style.backgroundColor="red"
+// c[1].style.backgroundColor="lightgreen"
+// c[2].style.backgroundColor="blue"
+// c[3].style.backgroundColor="pink"
+
+
+
+
+
+

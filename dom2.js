@@ -55,23 +55,3 @@
 
 
 
-
-
-
-
-   let num = 0
-   var cout = document.getElementById("Box")
-    function increase() {
-      num++
-      cout.innerHTML = num
-    }
-    function decrease() {
-        if(num > 0){
-        num--
-        cout.innerHTML = num 
-    }
-    else{
-      alert("invaIid")
-    }
-}
-  
