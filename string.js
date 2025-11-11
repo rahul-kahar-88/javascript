@@ -31,7 +31,7 @@
 // let st = "this is \n js class" + " " + faculty
 // console.log(st)
 
-// template literals   ( ` ` )
+// template literals   ( ` ` ) - back tick
 
 // let st1 = `this is javascript
 // class  ${faculty}`
